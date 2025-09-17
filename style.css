@@ -340,10 +340,6 @@ span{
 .portfolio h2{
   margin-bottom:4rem ;
 }
-
-.headinng{
-  font-size: 4.5rem;
-}
 .portfolio-container {
   display: grid;
  grid-template-columns: repeat(3, 1fr);
