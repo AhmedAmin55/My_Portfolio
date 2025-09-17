@@ -338,7 +338,11 @@ span{
   background: var(--snd-bf-color);
 }
 .portfolio h2{
-  margin-bottom:1rem ;
+  margin-bottom:4rem ;
+}
+
+.headinng{
+  font-size: 4.5rem;
 }
 .portfolio-container {
   display: grid;
