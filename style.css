@@ -277,6 +277,9 @@ span{
 .services h2{
   margin-bottom: 5rem;
 }
+.headinng {
+  font-size: 4.5rem;
+}
 .services-container{
   display: flex;
   justify-content: center;
@@ -339,6 +342,12 @@ span{
 }
 .portfolio h2{
   margin-bottom:4rem ;
+}
+.headding{
+
+  text-align: center;
+  font-size: 4.5rem;
+
 }
 .portfolio-container {
   display: grid;
