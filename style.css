@@ -338,7 +338,7 @@ span{
   background: var(--snd-bf-color);
 }
 .portfolio h2{
-  margin-bottom:4rem ;
+  margin-bottom:1rem ;
 }
 .portfolio-container {
   display: grid;
